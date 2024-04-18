@@ -1,0 +1,14 @@
+.banner {
+    background-color: blue;
+            color: white;
+            padding: 20px;
+            text-align: center;
+}
+#imagetangled{
+    width: 200px;
+    height: 200px;
+}
+#moannavideo{
+    width: 300px;
+    height: 200px;
+}
